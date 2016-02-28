@@ -8,5 +8,5 @@
    * [file_types.md](intermediate/file_types.md)
    * [appsettings.md](intermediate/appsettings.md)
    * [simpleapplication.md](intermediate/simpleapplication.md)
-* SDK
+* [SDK](sdk/sdk-intro.md)
 
