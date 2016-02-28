@@ -6,5 +6,5 @@
    * [Hello Asset](beginner/hello_asset.md)
 * [Intermediate](intermediate/intermediate-intro.md)
    * [appsettings.md](intermediate/appsettings.md)
-   * simpleapplication.md
+   * [simpleapplication.md](intermediate/simpleapplication.md)
 
