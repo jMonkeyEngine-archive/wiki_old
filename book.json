@@ -4,8 +4,8 @@
 	"pluginsConfig": {
 		"fontSettings": {
 			"theme": null,
-			"family": 'dark',
-			"size": 2
+			"family": "dark",
+			"size": 4
 		}
 	}
 }
