@@ -17,4 +17,5 @@
        * [extension_library.md](sdk/extension_library.md)
        * general.md
        * model_loader.md
+       * project_assets.md
 
