@@ -15,7 +15,7 @@
    * [Development](sdk/development-intro.md)
        * [sceneexplorer.md](sdk/sceneexplorer.md)
        * [extension_library.md](sdk/extension_library.md)
-       * general.md
+       * [general.md](sdk/general.md)
        * model_loader.md
        * project_assets.md
        * scene.md
