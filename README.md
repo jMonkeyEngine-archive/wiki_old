@@ -69,7 +69,7 @@ After downloading and installing, <a href="/jme3.html" class="wikilink1" title="
 		<td class="col0"> <a href="/jme3.html" class="wikilink1" title="jme3">jME3 intermediate articles</a> </td><td class="col1"> <a href="/sdk/comic.html" class="wikilink1" title="sdk:comic">jMonkeyEngine SDK - the Comic :-)</a> </td><td class="col2"> <a href="/jme3/external/blender.html" class="wikilink1" title="jme3:external:blender">Blender Modeling Guide</a> </td>
 	</tr>
 	<tr class="row3">
-		<td class="col0"> <a href="/jme3.html" class="wikilink1" title="jme3">jME3 advanced documentation</a> </td><td class="col1 leftalign">  </td><td class="col2"> <a href="/jme3/faq.html" class="wikilink1" title="jme3:faq">Answers to Frequently Asked Questions</a> </td>
+		<td class="col0"> <a href="/jme3.html" class="wikilink1" title="jme3">jME3 advanced documentation</a> </td><td class="col1 leftalign">  </td><td class="col2"> <a href="/faq.html" class="wikilink1" title="jme3:faq">Answers to Frequently Asked Questions</a> </td>
 	</tr>
 </table></div>
 <!-- EDIT5 TABLE [2330-2880] -->
