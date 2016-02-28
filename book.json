@@ -1,11 +1,11 @@
 {
-	"output": null,
-	"generator": "site",
-	"title": null,
-	"description": null,
+	"plugins": [],
+
 	"pluginsConfig": {
 		"fontSettings": {
-			"theme": "night"
+			"theme": null,
+			"family": dark,
+			"size": 2
 		}
 	}
 }
