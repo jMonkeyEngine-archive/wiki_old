@@ -9,4 +9,5 @@
    * [appsettings.md](intermediate/appsettings.md)
    * [simpleapplication.md](intermediate/simpleapplication.md)
 * [SDK](sdk/sdk-intro.md)
+   * project_creation.md
 
