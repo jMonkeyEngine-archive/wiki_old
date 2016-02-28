@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Beginner
+* [Beginner](beginner/beginner-intro.md)
 
