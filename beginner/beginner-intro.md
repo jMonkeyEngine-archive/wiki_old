@@ -1,3 +1,3 @@
 # Beginner
 
-And so begins the beginner chapter.
+And so begins the beginner chapter. Done.
