@@ -1,6 +1,3 @@
----
-title: jMonkeyEngine Documentation
----
 <h1 class="sectionedit1" id="jmonkeyengine_documentation">jMonkeyEngine Documentation</h1>
 <div class="level1">
 
