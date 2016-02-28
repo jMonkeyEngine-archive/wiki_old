@@ -11,4 +11,5 @@
 * [SDK](sdk/sdk-intro.md)
    * project_creation.md
    * build_platform.md
+   * neotexture.md
 
