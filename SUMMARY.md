@@ -9,7 +9,7 @@
    * [appsettings.md](intermediate/appsettings.md)
    * [simpleapplication.md](intermediate/simpleapplication.md)
 * [SDK](sdk/sdk-intro.md)
-   * project_creation.md
+   * [project_creation.md](sdk/project_creation.md)
    * build_platform.md
    * neotexture.md
 
