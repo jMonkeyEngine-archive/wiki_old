@@ -19,4 +19,5 @@
        * model_loader.md
        * project_assets.md
        * scene.md
+       * setup.md
 
