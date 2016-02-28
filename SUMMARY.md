@@ -19,5 +19,5 @@
        * [model_loader.md](sdk/model_loader.md)
        * scene.md
        * setup.md
-       * projects_assets.md
+       * [projects_assets.md](sdk/projects_assets.md)
 
