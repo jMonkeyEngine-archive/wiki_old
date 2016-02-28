@@ -7,5 +7,5 @@
 * [Intermediate](intermediate/intermediate-intro.md)
    * [appsettings.md](intermediate/appsettings.md)
    * [simpleapplication.md](intermediate/simpleapplication.md)
-   * file_types.md
+   * [file_types.md](intermediate/file_types.md)
 
