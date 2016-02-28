@@ -13,5 +13,5 @@
    * [build_platform.md](sdk/build_platform.md)
    * [neotexture.md](sdk/neotexture.md)
    * [Development](sdk/development-intro.md)
-       * sceneexplorer.md
+       * [sceneexplorer.md](sdk/sceneexplorer.md)
 
