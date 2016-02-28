@@ -10,6 +10,6 @@
    * [simpleapplication.md](intermediate/simpleapplication.md)
 * [SDK](sdk/sdk-intro.md)
    * [project_creation.md](sdk/project_creation.md)
-   * build_platform.md
+   * [build_platform.md](sdk/build_platform.md)
    * neotexture.md
 
