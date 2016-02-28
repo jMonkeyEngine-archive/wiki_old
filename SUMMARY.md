@@ -20,5 +20,5 @@
        * [scene.md](sdk/scene.md)
        * [setup.md](sdk/setup.md)
        * [projects_assets.md](sdk/projects_assets.md)
-* FAQ
+* [FAQ](faq.md)
 
