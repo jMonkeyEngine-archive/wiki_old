@@ -12,5 +12,5 @@
    * [project_creation.md](sdk/project_creation.md)
    * [build_platform.md](sdk/build_platform.md)
    * [neotexture.md](sdk/neotexture.md)
-   * Development
+   * [Development](sdk/development-intro.md)
 
