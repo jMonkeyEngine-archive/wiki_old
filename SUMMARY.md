@@ -18,4 +18,5 @@
        * general.md
        * model_loader.md
        * project_assets.md
+       * scene.md
 
