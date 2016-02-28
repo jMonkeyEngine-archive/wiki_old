@@ -18,6 +18,6 @@
        * [general.md](sdk/general.md)
        * [model_loader.md](sdk/model_loader.md)
        * [scene.md](sdk/scene.md)
-       * setup.md
+       * [setup.md](sdk/setup.md)
        * [projects_assets.md](sdk/projects_assets.md)
 
