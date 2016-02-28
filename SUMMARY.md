@@ -14,5 +14,5 @@
    * [neotexture.md](sdk/neotexture.md)
    * [Development](sdk/development-intro.md)
        * [sceneexplorer.md](sdk/sceneexplorer.md)
-       * extension_library.md
+       * [extension_library.md](sdk/extension_library.md)
 
