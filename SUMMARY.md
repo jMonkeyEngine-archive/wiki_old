@@ -5,7 +5,7 @@
    * [Hello Collision](beginner/hello_collision.md)
    * [Hello Asset](beginner/hello_asset.md)
 * [Intermediate](intermediate/intermediate-intro.md)
+   * [file_types.md](intermediate/file_types.md)
    * [appsettings.md](intermediate/appsettings.md)
    * [simpleapplication.md](intermediate/simpleapplication.md)
-   * [file_types.md](intermediate/file_types.md)
 
