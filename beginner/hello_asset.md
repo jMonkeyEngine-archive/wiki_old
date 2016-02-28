@@ -1,6 +1,3 @@
----
-title: jMonkeyEngine 3 Tutorial (3) - Hello Assets
----
 <h1 class="sectionedit1" id="jmonkeyengine_3_tutorial_3_-_hello_assets">jMonkeyEngine 3 Tutorial (3) - Hello Assets</h1>
 <div class="level1">
 
