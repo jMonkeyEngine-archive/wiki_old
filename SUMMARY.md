@@ -4,5 +4,5 @@
 * [Beginner](beginner/beginner-intro.md)
    * [Hello Collision](beginner/hello_collision.md)
    * [Hello Asset](beginner/hello_asset.md)
-* Intermediate
+* [Intermediate](intermediate/intermediate-intro.md)
 
