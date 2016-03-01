@@ -1,5 +1,4 @@
-<h1 class="sectionedit1" id="jmonkeyengine_documentation">jMonkeyEngine Documentation</h1>
-<div class="level1">
+# jMonkeyEngine Documentation
 
 <p>
 This documentation wiki contains installation and configuration guides, jME coding tutorials and other information that will help you get your game project going. You can search the contents of this wiki using the search box in the upper right.
