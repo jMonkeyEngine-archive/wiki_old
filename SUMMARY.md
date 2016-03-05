@@ -23,4 +23,5 @@
 * [FAQ](faq.md)
 * [Español](es/espanol.md)
    * Introduction
+* other
 
