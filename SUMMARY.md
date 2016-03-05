@@ -23,5 +23,6 @@
 * [FAQ](faq.md)
 * [Español](es/espanol.md)
    * Beginner
+       * Hello Collision
    * Introduction
 
