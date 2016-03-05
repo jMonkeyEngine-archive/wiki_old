@@ -1,2 +1,2 @@
-# Esañol
+# Español
 
