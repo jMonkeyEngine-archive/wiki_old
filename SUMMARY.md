@@ -21,5 +21,5 @@
        * [setup.md](sdk/setup.md)
        * [projects_assets.md](sdk/projects_assets.md)
 * [FAQ](faq.md)
-* [Esañol](es/introduction.md)
+* [Español](es/introduction.md)
 
