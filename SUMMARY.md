@@ -24,5 +24,6 @@
 * [Español](es/espanol.md)
    * Beginner
        * Hello Collision
+       * Hello Asset
    * Introduction
 
