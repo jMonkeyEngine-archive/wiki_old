@@ -22,8 +22,8 @@
        * [projects_assets.md](sdk/projects_assets.md)
 * [FAQ](faq.md)
 * [Español](es/espanol.md)
+   * Introduction
    * Beginner
        * Hello Collision
        * Hello Asset
-   * Introduction
 
