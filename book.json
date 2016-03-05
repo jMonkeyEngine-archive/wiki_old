@@ -1,11 +1,10 @@
 {
-	"plugins": ["fontsettings"],
+	"plugins": ["edit-link"],
 
 	"pluginsConfig": {
-		"fontSettings": {
-			"theme": null,
-			"family": "dark",
-			"size": 4
+		"edit-link": {
+			"base": "https://github.com/USER/REPO/edit/BRANCH/path/to/book",
+			"label": "Edit This Page"
 		}
 	}
 }
