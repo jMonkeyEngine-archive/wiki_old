@@ -6,9 +6,10 @@
    * [Hello Asset](beginner/hello_asset.md)
    * [hello_main_event_loop](hello_main_event_loop.md)
    * [what_s_an_ide](beginner/what_s_an_ide.md)
-   * [hello_physics](hello_physics.md)
-   * [hello_animation](hello_animation.md)
-   * hellovector
+   * [hello_physics](beginner/hello_physics.md)
+   * [hello_animation](beginner/hello_animation.md)
+   * [hellovector](beginner/hellovector.md)
+   * [Hello Effects](beginner/hello_effects.md)
 * [Intermediate](intermediate/intermediate-intro.md)
    * [file_types.md](intermediate/file_types.md)
    * [appsettings.md](intermediate/appsettings.md)
