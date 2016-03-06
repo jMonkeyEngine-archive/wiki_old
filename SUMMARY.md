@@ -5,7 +5,7 @@
    * [Hello Collision](beginner/hello_collision.md)
    * [Hello Asset](beginner/hello_asset.md)
    * [hello_main_event_loop](hello_main_event_loop.md)
-   * what_s_an_ide
+   * [what_s_an_ide](beginner/whats_an_ide.md)
    * hello_physics
    * hello_animation
    * hellovector
