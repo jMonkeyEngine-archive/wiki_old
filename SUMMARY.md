@@ -8,6 +8,7 @@
    * what_s_an_ide
    * hello_physics
    * hello_animation
+   * hellovector
 * [Intermediate](intermediate/intermediate-intro.md)
    * [file_types.md](intermediate/file_types.md)
    * [appsettings.md](intermediate/appsettings.md)
