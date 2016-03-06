@@ -3,7 +3,7 @@
 
 	"pluginsConfig": {
 		"edit-link": {
-			"base": "https://github.com/jMonkeyEngine/wiki.jmonkeyengine.org/edit/BRANCH/path/to/book",
+			"base": "https://github.com/jMonkeyEngine/wiki.jmonkeyengine.org/edit/master",
 			"label": "Edit This Page"
 		}
 	}
