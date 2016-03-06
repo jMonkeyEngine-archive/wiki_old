@@ -6,7 +6,7 @@
    * [Hello Asset](beginner/hello_asset.md)
    * [hello_main_event_loop](hello_main_event_loop.md)
    * [what_s_an_ide](beginner/what_s_an_ide.md)
-   * hello_physics
+   * [hello_physics](hello_physics.md)
    * hello_animation
    * hellovector
 * [Intermediate](intermediate/intermediate-intro.md)
