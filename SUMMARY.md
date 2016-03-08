@@ -12,6 +12,7 @@
    * [Hello Effects](beginner/hello_effects.md)
    * [hello_picking.md](beginner/hello_picking.md)
    * [hello_material.md](beginner/hello_material.md)
+   * empty entry
 * [Intermediate](intermediate/intermediate-intro.md)
    * [file_types.md](intermediate/file_types.md)
    * [appsettings.md](intermediate/appsettings.md)
