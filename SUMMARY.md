@@ -36,5 +36,5 @@
        * [projects_assets.md](sdk/projects_assets.md)
 * [FAQ](faq.md)
 * [Sample Chapter](sample_chapter.md)
-   * Sample page
+   * [Sample page](sample_page.md)
 
