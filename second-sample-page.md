@@ -1,3 +1,3 @@
 # second-sample-page
 
-Just content on a page.
+Just content on a page. Indeed.
