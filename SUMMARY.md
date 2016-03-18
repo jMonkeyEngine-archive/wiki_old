@@ -269,6 +269,8 @@
    * [GSoC - Ideas](misc/ideas.md)
    * [GSoC - Students Handbook](misc/students_handbook.md)
 * [FAQ](faq.md)
+* [Report Bugs](report_bugs.md)
+* [Logo](logo.md)
 * [Sample Chapter](sample_chapter.md)
    * [Sample page](sample_page.md)
    * [second-sample-page](second-sample-page.md)
