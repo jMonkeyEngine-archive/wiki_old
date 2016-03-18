@@ -6,5 +6,8 @@
 			"base": "https://github.com/jMonkeyEngine/wiki.jmonkeyengine.org/edit/master",
 			"label": "Edit This Page"
 		}
-	}
+	},
+	"search": {
+        "maxIndexSize": 10000000
+    }
 }
