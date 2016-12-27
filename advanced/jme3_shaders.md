@@ -5,7 +5,7 @@ title: JME3 and Shaders
 <div class="level1">
 
 <p>
-<br />
+<br>
 
 </p>
 
@@ -21,7 +21,7 @@ This paper only covers Vertex and Fragment shaders because they are the only one
 
 There are multiple frequently used languages that you may encounter to code shaders but as JME3 is based on OpenGL, shaders in JME use GLSL and any example in this paper will be written in GLSL.<br />
 
-<br />
+<br>
 
 </p>
 
