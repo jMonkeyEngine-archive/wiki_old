@@ -357,7 +357,7 @@ You have learned that many different effects can be created by changing the para
 </p>
 
 <p>
-Now you move on to another exciting chapter – the simulation of <a href="http://jmonkeyengine.org/wiki/doku.php/jme3:beginner:hello_physics" class="urlextern" title="http://jmonkeyengine.org/wiki/doku.php/jme3:beginner:hello_physics" rel="nofollow">physical objects</a>. Let's shoot some cannon balls at a brick wall!
+Now you move on to another exciting chapter – the simulation of <a href="/jme3/beginner/hello_physics.html" class="urlextern" title="http://jmonkeyengine.org/wiki/doku.php/jme3:beginner:hello_physics" rel="nofollow">physical objects</a>. Let's shoot some cannon balls at a brick wall!
 </p>
 <hr />
 <div class="tags"><span>
